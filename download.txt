@@ -1,0 +1,8 @@
+## This file contains the list of resources
+## Column 1: File name
+## Column 2: SHA256 checksum
+## Column 3: Source URL
+
+## CMap Resources <https://github.com/adobe-type-tools/cmap-resources>
+## License: BSD-3-Clause
+iryouhi_form_v3.xlsx 9244af0b7b13ba0b868ae92072421c1cb046536acc9814800ebf256599dcdae4 https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi_form_v3.xlsx
