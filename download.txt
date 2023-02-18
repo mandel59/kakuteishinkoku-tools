@@ -3,6 +3,5 @@
 ## Column 2: SHA256 checksum
 ## Column 3: Source URL
 
-## CMap Resources <https://github.com/adobe-type-tools/cmap-resources>
-## License: BSD-3-Clause
+## 国税庁 医療費集計フォーム <https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi-download.htm>
 iryouhi_form_v3.xlsx 9244af0b7b13ba0b868ae92072421c1cb046536acc9814800ebf256599dcdae4 https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/iryouhi_form_v3.xlsx
